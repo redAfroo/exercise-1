@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/kthfsdv/devel/.private/rece
+
+Name: rece
+Description: Description of rece
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

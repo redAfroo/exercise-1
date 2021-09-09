@@ -1,0 +1,12 @@
+Symlinking /home/ubuntu/kthfsdv/devel/./setup.sh
+Symlinking /home/ubuntu/kthfsdv/devel/./local_setup.zsh
+Symlinking /home/ubuntu/kthfsdv/devel/./local_setup.sh
+Symlinking /home/ubuntu/kthfsdv/devel/./_setup_util.py
+Symlinking /home/ubuntu/kthfsdv/devel/./cmake.lock
+Symlinking /home/ubuntu/kthfsdv/devel/./local_setup.bash
+Symlinking /home/ubuntu/kthfsdv/devel/./setup.bash
+Symlinking /home/ubuntu/kthfsdv/devel/./env.sh
+Symlinking /home/ubuntu/kthfsdv/devel/./setup.zsh
+Symlinking /home/ubuntu/kthfsdv/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/ubuntu/kthfsdv/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/ubuntu/kthfsdv/devel/lib/pkgconfig/catkin_tools_prebuild.pc

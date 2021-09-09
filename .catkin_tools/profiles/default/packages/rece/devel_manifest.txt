@@ -1,0 +1,5 @@
+exc1/rece
+/home/ubuntu/kthfsdv/devel/.private/rece/cmake.lock /home/ubuntu/kthfsdv/devel/./cmake.lock
+/home/ubuntu/kthfsdv/devel/.private/rece/share/rece/cmake/receConfig.cmake /home/ubuntu/kthfsdv/devel/share/rece/cmake/receConfig.cmake
+/home/ubuntu/kthfsdv/devel/.private/rece/share/rece/cmake/receConfig-version.cmake /home/ubuntu/kthfsdv/devel/share/rece/cmake/receConfig-version.cmake
+/home/ubuntu/kthfsdv/devel/.private/rece/lib/pkgconfig/rece.pc /home/ubuntu/kthfsdv/devel/lib/pkgconfig/rece.pc
